@@ -1,6 +1,6 @@
 # Doubly-Linked-List
 Created a Doubly Linked List class in Python with corresponding methods such as:
-• Create nodes
+- Create nodes
 • Create double linked list
 • Add/remove nodes to head of list
 • Add/remove nodes to tail of list
